@@ -1,0 +1,50 @@
+html {
+background-image: url(file:///Users/bradeyduley/Desktop/school/Interaction/current%20website/images/taxibg2.png);
+}
+
+
+div {
+    background-color: ;
+    width: 200 px;
+    height: 200 px;
+  }
+
+  pre {
+    background-color: ;
+    width: 200px;
+
+    animation-duration: 3s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    animation-direction:normal;
+    animation-timing-function: linear;
+  }
+ 
+  #taxi1{
+    color: red
+}
+#taxi2{
+    color: rgb(232, 232, 14)
+}
+#taxi3{
+    color: green
+}
+#taxi4{
+    color: blue
+}
+#taxi5{
+    color: blueviolet
+}
+
+
+@keyframes slidein {
+  from {
+    margin-left: 0%;
+    width: 100%;
+  }
+
+  to {
+    margin-left: 100%;
+    width: 300%;
+  }
+}

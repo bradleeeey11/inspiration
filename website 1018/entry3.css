@@ -1,0 +1,11 @@
+html {
+  background-image: url("file:///Users/bradeyduley/Desktop/school/Interaction/current%20website/images/velvetbg1.png");
+    /* background: linear-gradient(to bottom, rgb(215, 51, 33) 0%, aliceblue 100%); */
+    color: white
+    min-height: 100vh;
+    font-size: 15px;
+  }
+
+  body {
+    color: rgb(252, 189, 189)
+  }

@@ -1,0 +1,24 @@
+html {
+  background-image: url("file:///Users/bradeyduley/Desktop/school/Interaction/current%20website/images/trashbg.png");
+    /* background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(114, 114, 114) 100%); */
+    font-size: 18px;
+    color: white
+  }
+
+  #group1 {
+    display: flex;
+    position: sticky;
+    top: 36px;
+}
+
+#group2 {
+    display: flex;
+    position: sticky;
+    top: 36px;
+}
+
+#group3 {
+    display: flex;
+    position: sticky;
+    top: 36px;
+}
